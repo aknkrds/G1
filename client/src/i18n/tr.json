@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "sectors": "Sektörler",
+    "products": "Ürünler",
+    "sustainability": "Sürdürülebilirlik",
+    "knowHow": "Hakkımızda",
+    "career": "Kariyer",
+    "contact": "İletişim",
+    "search": "Ara...",
+    "getQuote": "Fiyat Teklifi Al"
+  },
+  "hero": {
+    "slide1Title": "Metal Ambalaj",
+    "slide1Desc": "Gampaş kalitesiyle üretilen, en yüksek standartlarda özel ambalaj çözümleri.\n\nSürdürülebilir ve çevre dostu.",
+    "slide2Title": "Kozmetik Kutuları",
+    "slide2Desc": "Zarif dokunuş, seçkin içerikler için.\n\nModern baskı teknikleri ve yüzey işleme ile mükemmel sonuçlar.",
+    "slide3Title": "Gıda Kutuları",
+    "slide3Desc": "Gıda güvenliği standartlarında üretim.\n\nÜrünlerinizi taze ve güvenli saklayın.",
+    "learnMore": "Daha Fazla"
+  },
+  "about": {
+    "title": "Şirket",
+    "subtitle": "En yüksek kalitede metal ambalaj çözümleri.",
+    "descriptionHeading": "Markanızı Şekillendiriyoruz",
+    "descriptionIntro": "Her marka güçlü bir hikâye anlatır. Biz, o hikâyeyi tamamlayan metal ambalajları tasarlıyor ve üretiyoruz.",
+    "descriptionBody": "1982 yılından bu yana kalite, mühendislik ve sürdürülebilir üretim anlayışımızla Türkiye'nin ve dünyanın farklı sektörlerine değer katıyoruz. Modern üretim teknolojimiz, uzman ekibimiz ve yüksek kalite standartlarımız sayesinde her ürünü yalnızca bir ambalaj olarak değil, markanızın prestijini yansıtan bir değer olarak görüyoruz. Müşterilerimizin ihtiyaçlarını doğru analiz ederek estetik, dayanıklılık ve fonksiyonelliği bir araya getiren çözümler sunuyor; üretimin her aşamasında kalite, güvenilirlik ve zamanında teslim ilkelerinden ödün vermiyoruz. Yenilikçi bakış açımız ve 40 yılı aşkın sektör deneyimimizle, iş ortaklarımızın başarı yolculuğuna değer katacak metal ambalaj çözümleri geliştirmeye devam ediyoruz.",
+    "descriptionClosing": "GAMPAŞ A.Ş. — Markanızı Şekillendiriyoruz.",
+    "slogan": "Eğer biri YAPABİLİR diyorsa —\nbiz YAPARIZ!\nTaahhüt ve motivasyon\nbirlikte.",
+    "management": "Gampaş Yönetim Kurulu",
+    "learnMore": "Daha Fazla"
+  },
+  "industries": {
+    "title": "Sektörünüz için en uygun ürün.",
+    "subtitle": "İhtiyacınıza özel.",
+    "cosmetic": "Kozmetik",
+    "food": "Gıda",
+    "pharma": "Farmasötik",
+    "chemical": "Kimyasal/\nTeknik",
+    "homeware": "Ev & Dekor",
+    "promo": "Promosyon",
+    "notListed": "Sektörünüz listede yok mu?",
+    "weHelp": "Size yardımcı olmaktan mutluluk duyarız!",
+    "contactUs": "İletişim"
+  },
+  "products": {
+    "title": "Uzman olarak neye ihtiyacınız olduğunu biliyorsunuz.",
+    "subtitle": "Burada bulacaksınız.",
+    "tins": "Kutular",
+    "caps": "Kapaklar & Aksesuarlar",
+    "notListed": "Aradığınız burada yok mu?",
+    "weHelp": "Size yardımcı olmaktan mutluluk duyarız!"
+  },
+  "news": {
+    "title": "Güncel",
+    "subtitle": "Ambalaj dünyası, her zaman günün nabzında.\nBizimle ufkunuzu genişletin.",
+    "loadMore": "Daha Fazla Yükle"
+  },
+  "cta": {
+    "title": "Online Metal Ambalaj Kataloğu",
+    "description": "Tüm metal ambalaj ürünlerimizi online kataloğumuzdan inceleyebilirsiniz. İhtiyacınıza en uygun ürünü kolayca bulun.",
+    "button": "Kataloğu İncele"
+  },
+  "footer": {
+    "tagline": "Metal Ambalajda 40 Yıllık Uzmanlık",
+    "company": "Şirket",
+    "corporate": "Kurumsal",
+    "production": "Üretim",
+    "aboutUs": "Hakkımızda",
+    "certificates": "Sertifikalar",
+    "contactTitle": "İletişim",
+    "copyright": "© 2024 Gampaş Ambalaj A.Ş. Tüm hakları saklıdır.",
+    "address": "Adile Nasit Bulvari Namik Kemal Mah.\n176. Sok. No:3 Esenyurt\nIstanbul / Turkiye"
+  },
+  "quote": {
+    "title": "Fiyat Teklifi Al",
+    "name": "Ad Soyad",
+    "phone": "Telefon Numarası",
+    "email": "E-posta Adresi",
+    "note": "Not",
+    "images": "Görsel Ekle (Maks. 5)",
+    "send": "Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Talebiniz başarıyla iletildi!",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "close": "Kapat"
+  },
+  "myBox": {
+    "title": "Benim Kutum",
+    "step": "Adım",
+    "stepShape": "Şekil Seçimi",
+    "stepSize": "Ölçü Bilgileri",
+    "stepLid": "Kapak Bilgisi",
+    "stepQuantity": "Adet Bilgisi",
+    "stepNote": "Not",
+    "stepContact": "İletişim Bilgileri",
+    "next": "Devam",
+    "back": "Geri",
+    "yes": "Var",
+    "no": "Yok",
+    "diameter": "Çap",
+    "width": "En",
+    "length": "Boy",
+    "height": "Yükseklik",
+    "quantity": "Adet",
+    "notePlaceholder": "Kutunuzla ilgili notlarınızı buraya yazabilirsiniz.",
+    "success": "Talebiniz İletilmiştir",
+    "shapes": {
+      "square": "Kare",
+      "round": "Yuvarlak",
+      "rectangle": "Dikdörtgen",
+      "oval": "Oval",
+      "custom": "Özel Kutu",
+      "tray": "Tepsi"
+    }
+  },
+  "contact": {
+    "pageTitle": "İletişim",
+    "heroSubtitle": "Sorularınız, teklif talepleriniz ve iş birlikleri için bize doğrudan ulaşabilirsiniz. Size en uygun çözümü birlikte şekillendirelim.",
+    "heroBadgePhone": "Telefon",
+    "heroBadgeEmail": "E-posta",
+    "heroBadgeAddress": "Konum",
+    "formTitle": "Bize Ulaşın",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "message": "Mesajınız",
+    "send": "Gönder",
+    "address": "Adres",
+    "faq": "Sıkça Sorulan Sorular"
+  }
+}

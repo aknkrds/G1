@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "sectors": "Sectors",
+    "products": "Products",
+    "sustainability": "Sustainability",
+    "knowHow": "Know-how",
+    "career": "Career",
+    "contact": "Contact",
+    "search": "Search...",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "slide1Title": "Metal Packaging",
+    "slide1Desc": "Custom packaging solutions produced at the highest standards with Gampaş quality.\n\nSustainable and eco-friendly.",
+    "slide2Title": "Cosmetic Tins",
+    "slide2Desc": "Elegant touch for exquisite contents.\n\nPerfect results with modern printing techniques and surface finishing.",
+    "slide3Title": "Food Tins",
+    "slide3Desc": "Production in food safety standards.\n\nKeep your products fresh and safe.",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "The Company",
+    "subtitle": "Metal packaging solutions of the highest quality.",
+    "descriptionHeading": "We Shape Your Brand",
+    "descriptionIntro": "Every brand tells a powerful story. We design and produce the metal packaging that completes that story.",
+    "descriptionBody": "Since 1982, we have been adding value to different industries in Turkey and around the world with our commitment to quality, engineering, and sustainable production. Thanks to our modern production technology, expert team, and high quality standards, we see every product not only as packaging, but as a reflection of your brand's prestige.",
+    "descriptionClosing": "GAMPAS A.S. - We Shape Your Brand.",
+    "slogan": "If anyone CAN —\nwe CAN!\nCommitment and motivation\ntogether.",
+    "management": "Gampaş Board of Directors",
+    "learnMore": "Learn More"
+  },
+  "industries": {
+    "title": "The right product for your sector.",
+    "subtitle": "Tailored to your needs.",
+    "cosmetic": "Cosmetics",
+    "food": "Food",
+    "pharma": "Pharma",
+    "chemical": "Chemical/\nTechnical",
+    "homeware": "Home & Decor",
+    "promo": "Promotion",
+    "notListed": "Your sector is not listed?",
+    "weHelp": "We are happy to help you!",
+    "contactUs": "Contact"
+  },
+  "products": {
+    "title": "As a specialist, you know what you need.",
+    "subtitle": "You'll find it here.",
+    "tins": "Tins",
+    "caps": "Caps & Accessories",
+    "notListed": "Can't find what you're looking for?",
+    "weHelp": "We are happy to help you!"
+  },
+  "news": {
+    "title": "News",
+    "subtitle": "The world of packaging, always on the pulse of time.\nBroaden your horizons with us.",
+    "loadMore": "Load More"
+  },
+  "cta": {
+    "title": "Online Metal Packaging Catalog",
+    "description": "Browse all our metal packaging products from our online catalog. Easily find the most suitable product for your needs.",
+    "button": "Browse Catalog"
+  },
+  "footer": {
+    "tagline": "40 Years of Expertise in Metal Packaging",
+    "company": "Company",
+    "corporate": "Corporate",
+    "production": "Production",
+    "aboutUs": "About Us",
+    "certificates": "Certificates",
+    "contactTitle": "Contact",
+    "copyright": "© 2024 Gampaş Ambalaj A.Ş. All rights reserved.",
+    "address": "Adile Nasit Bulvari Namik Kemal Mah.\n176. Sok. No:3 Esenyurt\nIstanbul / Turkiye"
+  },
+  "quote": {
+    "title": "Get a Quote",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "note": "Note",
+    "images": "Add Images (Max. 5)",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Your request has been sent successfully!",
+    "error": "An error occurred. Please try again.",
+    "close": "Close"
+  },
+  "myBox": {
+    "title": "My Box",
+    "step": "Step",
+    "stepShape": "Choose Shape",
+    "stepSize": "Enter Dimensions",
+    "stepLid": "Lid Option",
+    "stepQuantity": "Quantity",
+    "stepNote": "Note",
+    "stepContact": "Contact Details",
+    "next": "Continue",
+    "back": "Back",
+    "yes": "Yes",
+    "no": "No",
+    "diameter": "Diameter",
+    "width": "Width",
+    "length": "Length",
+    "height": "Height",
+    "quantity": "Quantity",
+    "notePlaceholder": "You can write your notes about the box here.",
+    "success": "Your request has been sent.",
+    "shapes": {
+      "square": "Square",
+      "round": "Round",
+      "rectangle": "Rectangle",
+      "oval": "Oval",
+      "custom": "Custom Box",
+      "tray": "Tray"
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "heroSubtitle": "Reach out to us directly for your questions, quote requests, and collaborations. Let's shape the right solution together.",
+    "heroBadgePhone": "Phone",
+    "heroBadgeEmail": "Email",
+    "heroBadgeAddress": "Location",
+    "formTitle": "Get in Touch",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Your Message",
+    "send": "Send",
+    "address": "Address",
+    "faq": "Frequently Asked Questions"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "gampas-website-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start-backend": "cd server && node server.js",
+    "start-frontend": "cd client && npm run dev",
+    "seed-db": "cd server && node db/seed.js"
+  }
+}
